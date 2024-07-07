@@ -3,6 +3,7 @@ import { useState } from 'react'
 import Header from "./components/Header" //This is in our components folder, and this is just a header component. We shall use it here.
 import Tasks from "./components/Tasks"
 import AddTask from "./components/AddTask"
+import 'bootstrap/dist/css/bootstrap.css'
 //917e2a0dd6814dfabab2c4c614934bea
 //import Modal from "./components/Modal"
 
